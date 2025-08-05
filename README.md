@@ -31,5 +31,6 @@ This project reads a CSV file containing student scores and performs the followi
 
 A bar chart showing average marks per subject
 A pie chart showing grade distribution
- project by akanksha kumari
+
+ Project by akanksha kumari
 data science project
